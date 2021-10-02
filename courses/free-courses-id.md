@@ -19,6 +19,7 @@
   * [AngularJS](#angularjs)
   * [Node](#node)
   * [React](#react)
+  * [Svelte](#svelte)
   * [Vue](#vue)
 * [Kotlin](#kotlin)
 * [Kubernetes](#kubernetes)
@@ -35,12 +36,17 @@
   * [Flask](#flask)
   * [PyTorch](#pytorch)
 * [Redis](#redis)
+* [SASS / SCSS](#sass--scss)
 * [Solidity](#solidity)
 * [Typescript](#typescript)
 
 
 ### Android
 
+* [Belajar Android Jetpack Pro](https://www.dicoding.com/academies/129) - Dicoding, membutuhkan registrasi
+* [Belajar Fundamental Aplikasi Android](https://www.dicoding.com/academies/14) - Dicoding, membutuhkan registrasi
+* [Belajar Membuat Aplikasi Android untuk Pemula](https://www.dicoding.com/academies/51) - Dicoding, membutuhkan registrasi
+* [Menjadi Android Developer Expert](https://www.dicoding.com/academies/165) - Dicoding, membutuhkan registrasi
 * [Tutorial Android (Java)](https://www.youtube.com/playlist?list=PLKPnl-eD7EA4rAzNeXikfCq5yiMuFI1zo) - Kopianan
 * [Tutorial Android (Kotlin)](https://www.youtube.com/playlist?list=PLaoF-xhnnrRUEbF6cvk4-CeBAEOSbp8sS) - EDMT Dev
 * [Tutorial Dasar Android Studio Bahasa Indonesia](https://www.udemy.com/course/tutorial-dasar-android-studio-bahasa-indonesia-gratis) - Udemy
@@ -95,8 +101,11 @@
 
 ### Flutter
 
+* [Belajar Fundamental Aplikasi Flutter](https://www.dicoding.com/academies/195) - Dicoding, membutuhkan registrasi
+* [Belajar Membuat Aplikasi Flutter untuk Pemula](https://www.dicoding.com/academies/159) - Dicoding, membutuhkan registrasi
 * [Flutter Membangun Website](https://buildwithangga.com/kelas/flutter-membangun-website-sederhana?thumbnail=nk4neM2UyG.110&main_leads=browse) - BuildWithAngga
 * [Flutter Tutorial (Flutter Fundamentals)](https://www.youtube.com/playlist?list=PLZQbl9Jhl-VACm40h5t6QMDB92WlopQmV) - Erico Darmawan Handoyo
+* [STUDI KASUS FLUTTER + GETX + FIREBASE [ CHAT APPS 2021 ]](https://www.youtube.com/playlist?list=PL7jdfftn7HKt6wPnVXoXgserU14d_ACA-) - Sandikha Rahardi, Kuldii Project (YouTube)
 * [Tutorial Flutter](https://www.youtube.com/playlist?list=PL0-7Xi0GB3teRqkuBusUEcVrP6OlYpD9w) - idr corner
 
 
@@ -120,8 +129,10 @@
 * [CSS Grid](https://www.youtube.com/playlist?list=PLFIM0718LjIXmbwX0dEsoRVX-PC16vmuw) - Web Programming UNPAS
 * [CSS Layouting](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [CSS Tailwind](https://buildwithangga.com/kelas/css-tailwind-web-design?thumbnail=nk4neM2UyG.46&main_leads=browse) - BuildWithAngga
+* [CSS Website Design](https://www.buildwithangga.com/kelas/css-website-design) - BuildWithAngga
 * [CSS3](https://www.youtube.com/playlist?list=PLFIM0718LjIVCmrSWbZPKCccCkfFw-Naa) - Web Programming UNPAS
 * [HTML Dasar](https://www.youtube.com/playlist?list=PLFIM0718LjIVuONHysfOK0ZtiqUWvrx4F) - Web Programming UNPAS
+* [HTML5 Dasar](https://www.buildwithangga.com/kelas/html5-dasar) - BuildWithAngga
 
 
 ### Java
@@ -130,12 +141,14 @@
 * [Belajar Java - Object Oriented Programming](https://www.youtube.com/playlist?list=PLFfUPa9IV8LpbRH5-TzphcZj6tpoxdr-p) - Mastahcode
 * [Belajar Java - Object Oriented Programming Bahasa Indonesia (Lanjut)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo6V4_vk1s1NcM2HoW5KFG7i) - Kelas Terbuka
 * [Belajar Java Bahasa Indonesia (Dasar)](https://www.youtube.com/playlist?list=PLZS-MHyEIRo51w0Hmqi0C8h2KWNzDfo6F) - Kelas Terbuka
+* [Belajar Java OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882bBLmmli1ly06MWZY-EOqX8) - Imam Farisi (YouTube)
 * [JAVA TUTORIAL - BAHASA INDONESIA](https://www.youtube.com/playlist?list=PL-CtdCApEFH-p_Q2GyK4K3ORoAT0Yt7CX) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Memulai Pemrograman dengan Java](https://www.dicoding.com/academies/60) - Dicoding, membutuhkan registrasi
 
 
 #### Spring
 
+* [Belajar Spring Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882aeiESAgna5eVa_cOpFnxQm) - Imam Farisi (YouTube)
 * [Spring Framework and Spring Boot Tutorial (Project CRUD)](https://www.youtube.com/playlist?list=PLFfUPa9IV8Lp-Uognr1ALuqlKyxANO77x) - Mastahcode
 
 
@@ -156,8 +169,14 @@
 
 #### Node
 
+* [Belajar NodeJS](https://youtube.com/playlist?list=PLFIM0718LjIW-XBdVOerYgKegBtD6rSfD) - Web Programming UNPAS
 * [Node.js Dasar](https://buildwithangga.com/kelas/node-javascript-dasar?thumbnail=nk4neM2UyG.36&main_leads=browse) - BuildWithAngga
 * [Pelajaran Node.js Sederhana](https://easy-to-learn5.teachable.com/p/nodejs) - Easy To Learn 5
+
+
+#### Svelte
+
+* [Tutorial Svelte Indonesia](https://youtube.com/playlist?list=PLH1gH0TmFBBhWp2pn6vRhUVVC1txQuTZE) - Ipung Purwono, Ipung Dev Academy
 
 
 #### React
@@ -185,6 +204,8 @@
 * [Belajar Kotlin Unit Test](https://www.youtube.com/playlist?list=PL-CtdCApEFH8HoTBUpYgQ-Q45U54Tn_up) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Fungsi pada Kotlin](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCqFIOudYt5icvdCnkA8FVe) - Sekolah Koding
 * [Kotlin Collection](https://www.youtube.com/playlist?list=PLCZlgfAG0GXCZWnGxjnZwAsnDthoas1O1) - Sekolah Koding
+* [Kotlin Object Oriented Programming Bahasa Indonesia](https://www.youtube.com/playlist?list=PLe8n__MJ2In54a_2j-Yh_Oz-ZGTauziwf) - Kelas Coding (YouTube)
+* [Tutorial Kotlin Android Studio 2020 Bahasa Indonesia](https://www.youtube.com/playlist?list=PLFVTikutopLZe6N6wHrrNDizfnxwoeg92) - Lazday Indonesia (YouTube)
 
 
 ### Kubernetes
@@ -241,6 +262,7 @@
 
 * [Belajar CRUD Laravel 8 + Livewire](https://www.youtube.com/playlist?list=PLEgI20pG1DqzAa8npy9C_NDUvYwhslUb4) - Kawan Koding
 * [Belajar Laravel 7 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MxfIKTn_wZ49XlplwHtz1AV) - Parsinta
+* [Belajar Laravel 8 Dari Awal](https://www.youtube.com/playlist?list=PLRKMmwY3-5MwADhthqRaewl-7e7AhjpP8) - Parsinta
 * [Belajar Laravel Pemula](https://www.youtube.com/playlist?list=PLIan8aHxsPj2c9ZA7Rrnciir2OydWTdbn) - Wahidev Academy
 * [Fitur Baru Laravel 8](https://www.youtube.com/playlist?list=PLEgI20pG1DqyTqCPiHnuWrBZtVFs5z95p) - Kawan Koding
 * [Membangun Web Profil Band dan Lirik dengan Laravel 8](https://www.youtube.com/playlist?list=PLRKMmwY3-5Mzoti-pT2MGuQERTd1_sm21) - Parsinta
@@ -254,6 +276,7 @@
 * [Belajar Pemrograman Python untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_HY6bL3JER8WJOxz1nb3_H) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [Belajar Python Bahasa Indonesia [Dasar]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo7cgStrKAMhgnOT66z2qKz1) - Kelas Terbuka
 * [Belajar Python Bahasa Indonesia [Versi Baru]](https://www.youtube.com/playlist?list=PLZS-MHyEIRo59lUBwU-XHH7Ymmb04ffOY) - Kelas Terbuka
+* [Intro to Python](https://www.youtube.com/playlist?list=PLM4Qh7PEStOmBHR6Ey0BzPf3XNsPuSXL-) - Tensaitech Academy
 * [OpenCV untuk Pemula](https://www.youtube.com/playlist?list=PLl-Zj2iuqlwt4cBsBy_Ej7gNlXdQ7blCB) - NgodingPython
 * [Tutorial Belajar Python Pandas](https://www.youtube.com/playlist?list=PL2O3HdJI4voGdD_9xhVCTBoDTDNHpajm5) - Indonesia Belajar
 * [Tutorial Python Bahasa Indonesia](https://www.youtube.com/playlist?list=PLCZlgfAG0GXDc9Wcsi2fUn0pAr41GDL6m) - Sekolah Koding
@@ -284,6 +307,11 @@
 * [Belajar Redis](https://www.youtube.com/playlist?list=PL-CtdCApEFH-7hBhz1Q-4rKIQntJoBNX3) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 
 
+### SASS / SCSS
+
+* [Tutorial SASS](https://www.youtube.com/playlist?list=PLFIM0718LjIUqemgG97MAOK0J_berlQM5) - Web Programming UNPAS
+
+
 ### Solidity
 
 * [Ethereum Blockchain Tutorial Bahasa Indonesia](https://www.youtube.com/playlist?list=PLNl8QwXqW_lvWSc3n3geFSbBtmJvEl4nz) - Odoo Indonesia vITraining
@@ -291,6 +319,8 @@
 
 ### TypeScript
 
+* [Belajar Typescript Dasar Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882Z4NSJGNq0eB9Fz6tIx-CgO) - Imam Farisi (YouTube)
+* [Belajar Typescript OOP Bahasa Indonesia](https://www.youtube.com/playlist?list=PLiuHSY2x882a-sLbdqZTtraO3cl0Clwg0) - Imam Farisi (YouTube)
 * [Belajar TypeScript Untuk Pemula](https://www.youtube.com/playlist?list=PL-CtdCApEFH_LJt-fhYfMMgqxirSu6EKo) - Eko Kurniawan Khannedy, Programmer Zaman Now (YouTube)
 * [OOP TypeScript](https://www.youtube.com/playlist?list=PLnQvfeVegcJZRieebeIp0xj1NeC5L633Y) - Nusendra Hanggarawan (YouTube)
 * [TypeScript Dasar](https://www.youtube.com/playlist?list=PLnQvfeVegcJbjCnML6FdusK-rl-oDRMXJ) - Nusendra Hanggarawan (YouTube)
